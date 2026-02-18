@@ -26,6 +26,10 @@ How many latent dimensions best represent the LibQUAL service quality items when
   - Optimal Coordinates
   - Acceleration Factor
   - `nFactors` package procedures
+  ## Scree Plot
+
+![Scree Plot](images/screeplot.png)
+
 
 ### 2. Regression-Based Criterion
 - Zoski & Jurs Regression Approach
@@ -49,8 +53,8 @@ How many latent dimensions best represent the LibQUAL service quality items when
 
 Across multiple complementary criteria:
 
-- Parallel Analysis → 3 factors  
-- MAP → 3 factors  
-- Comparative Data Method → 3 factors  
-- Zoski & Jurs → 4
+## Findings Overview
+
+![findings overview](images/findings_overview.png)
+
 
