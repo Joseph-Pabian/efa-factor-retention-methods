@@ -28,7 +28,7 @@ How many latent dimensions best represent the LibQUAL service quality items when
   - `nFactors` package procedures
   ## Scree Plot
 
-![Scree Plot](images/screeplot.png)
+![Scree Plot](images/Screeplot.png)
 
 
 ### 2. Regression-Based Criterion
