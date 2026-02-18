@@ -6,7 +6,7 @@ Rather than relying on a single heuristic (e.g., eigenvalues > 1), this project 
 
 ---
 
-## 🧠 Methods Implemented
+##  Methods Implemented
 
 ### Classical / Visual
 - Scree plot
@@ -35,7 +35,7 @@ Rather than relying on a single heuristic (e.g., eigenvalues > 1), this project 
 
 ---
 
-## 🛠 Packages Used
+##  Packages Used
 
 - `foreign`
 - `psych`
@@ -43,7 +43,7 @@ Rather than relying on a single heuristic (e.g., eigenvalues > 1), this project 
 
 ---
 
-## 📊 Key Takeaway
+## Key Takeaway
 
 Across multiple complementary criteria, a **3-factor solution** is supported for these data, though several methods suggest alternative possibilities. This demonstrates why triangulation across retention rules is preferable to relying on a single statistical criterion.
 
