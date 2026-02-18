@@ -55,6 +55,6 @@ Across multiple complementary criteria:
 
 ## Findings Overview
 
-![findings overview](images/findings_overview.png)
+![Findings Overview](images/Findings overview.png)
 
 
